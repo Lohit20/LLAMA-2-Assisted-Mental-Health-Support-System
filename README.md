@@ -66,4 +66,4 @@ The development of the LLM-Assisted Mental Health Support System successfully le
 
 ## Hugging Face Repository
 
-[Lohit20/Depressed_Llama-2-7b](https://github.com/Lohit20/Depressed_Llama-2-7b)
+[Lohit20/Depressed_Llama-2-7b](https://huggingface.co/Lohit20/Depressed_Llama-2-7b)
