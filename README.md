@@ -59,6 +59,7 @@ The model is live on Hugging Face.
 ## Results
 
 Remarkable results were achieved as the chatbot effectively responded to depression-based queries with various contexts.
+![Image2](C:\Users\SyedMuhammadFahadZah\Desktop\img.PNG)
 
 ## Conclusion
 
