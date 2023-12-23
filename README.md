@@ -30,6 +30,9 @@ Applied quantization from 32-bit float to 4-bit to optimize GPU memory usage and
 
 Utilized Hugging Face's Transformers library to load the model from Meta. QloRA library by HF was used for quantization, and PeFT (Parameter Efficient Finetuning) was used to update the weights of adaptor layers. The model was fine-tuned on 1000 rows for 1 epoch using a 512-max sequence length.
 
+![model_llama-2](https://github.com/Lohit20/LLAMA-2-Assisted-Mental-Health-Support-System/assets/122743521/54c36966-78d1-4802-8ae0-2ed2641a118a)
+
+
 ### Data Preprocessing
 
 Cleaned and preprocessed the dataset, ensuring privacy and relevance.
@@ -59,7 +62,10 @@ The model is live on Hugging Face.
 ## Results
 
 Remarkable results were achieved as the chatbot effectively responded to depression-based queries with various contexts.
-![Result](C:\Users\SyedMuhammadFahadZah\Desktop\img.PNG)
+
+![Capture](https://github.com/Lohit20/LLAMA-2-Assisted-Mental-Health-Support-System/assets/122743521/f451767d-95f7-47e6-943d-3aa26c29f218)
+![f](https://github.com/Lohit20/LLAMA-2-Assisted-Mental-Health-Support-System/assets/122743521/7b366906-bc10-456c-95e7-a51bb305068c)
+![img](https://github.com/Lohit20/LLAMA-2-Assisted-Mental-Health-Support-System/assets/122743521/c440d90a-579b-4810-b748-4e291c0cc5d6)
 
 ## Conclusion
 
